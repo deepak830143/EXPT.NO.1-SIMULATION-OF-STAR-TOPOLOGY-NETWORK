@@ -7,7 +7,10 @@
 
 Desktop computer
 Cisco Packet Tracer 5.0 Software.
-
+# IP ASSIGNMENT:
+<img width="997" height="204" alt="image" src="https://github.com/user-attachments/assets/1b169a8a-7a4b-4d46-8045-8444db167d91" />
+# NETWORK DIAGRAM:
+<img width="1158" height="666" alt="image" src="https://github.com/user-attachments/assets/5fa52b72-11b7-485e-be70-88219dfab43b" />
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
